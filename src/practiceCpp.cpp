@@ -193,8 +193,9 @@ int main() {
 		cout << overloadOperator(word1, word2) << " is larger!" << endl;
 		break;
 	default:
+		cout << "OUT OF RANGE!" << endl;
 		break;
 	}
-
+	system("pause");
 	return 0;
 }
