@@ -4,7 +4,9 @@ Playground for practicing C++ concepts.
 This program utilizes concepts from OOP C++ such as
 basic input/output, switch statements, string functions,
 exception handling, recursion, dynamic memory allocation
-with pointers and also memory deallocation, and templates.
+with pointers and memory deallocation, and also templates.
+
+I will be adding more as I learn.
 
 
 ##Basic String Functions
