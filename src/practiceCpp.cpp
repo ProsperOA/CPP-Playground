@@ -65,7 +65,7 @@ void recursion(int a, int b, int c) {
 		a /= 2;
 		c++;
 		if (a == 0) {
-			cout << temp << " was multiplied " << c << " times before it "
+			cout << temp << " was divided " << c << " times before it "
 					<< "equaled 0." << endl;
 
 			if (b != c) {
@@ -151,7 +151,7 @@ int main() {
 		int twoMultiple, answer;
 
 		cout << "Task:\n -Enter a multiple of two and guess how many times that "
-				<< "number must by multiplied by 2 to equal 0. If you get "
+				<< "number must by divided by 2 to equal 0. If you get "
 				<< "the answer wrong, you must try again." << endl;
 
 		cout << "Enter a multiple of 2: ";
