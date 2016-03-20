@@ -1,4 +1,4 @@
-# Practice-cpp
+# CPP-Playground
 Playground for practicing C++ concepts.
 
 This program utilizes concepts from OOP C++ such as
